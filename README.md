@@ -2,7 +2,7 @@
 
 A Claude skill for **Kaplan–Meier survival analysis** of clinical/medical time-to-event data. Produces NEJM-style survival curves and the descriptive statistics that accompany them.
 
-This skill is **descriptive / unadjusted only**. For multivariable adjustment (adjusted HR, VIF, proportional-hazards diagnostics), use the companion skill [clinical-cox-regression](https://github.com/JeonKH81/clinical-cox-regression).
+This skill is **descriptive / unadjusted only**. For multivariable adjustment (adjusted HR, VIF, proportional-hazards diagnostics), use the companion skill [clinical-cox-regression](https://github.com/JeonKH81/MediStat-Cox).
 
 ## What it does
 
